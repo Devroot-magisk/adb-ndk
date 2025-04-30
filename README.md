@@ -1,4 +1,4 @@
-## ADB & Fastboot for Android NDK
+### ADB & Fastboot for Android NDK
 ### osm0sis & Surge1223 @ xda-developers
 *Static arm/arm64 adb and fastboot binaries for Android built with the NDK*
 
